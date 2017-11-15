@@ -15,7 +15,8 @@ jupyter notebook
 
 matplotlib
 
-To use
+To use:
+
 Setup x_train and y_train in the notebook to be the examples you want the network to train on.
 
 Run the cells sequentially and you'll see your network fit the training data.

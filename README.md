@@ -6,9 +6,13 @@ Or any arduino project that uses the neural network written here http://robotics
 You'll need the following packages (you can pip install each of them)
 
 tensorflow
+
 keras
+
 numpy
+
 jupyter notebook
+
 matplotlib
 
 To use
